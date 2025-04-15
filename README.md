@@ -24,3 +24,6 @@ This JSON data is Project/Configuration/Classes.json that contains all calsses:
    + In "in-out" mode, it works like `echo 'hi', (input) and (output) !. The value acts as both input and output`.
 
    + In "out-in" mode, it works like `echo 'hi', (output) and (input) !. The value first outputs`.
+
+- For the "pattern" field:
+   + ⚠️ **Note**: Do not remove "first", "mid" or "last" in the "pattern" field; if you remove one of those, then the builder will not work.
