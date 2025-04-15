@@ -68,5 +68,5 @@ for i in BuildBase['file']:
         right = input_
 
     pattern = d['pattern']
-    dCombine = pattern['first'] + left + pattern['mid'] + right + pattern['last']
+    dCombine = pattern['first'] + " " + left + " " + pattern['mid'] + " " + right + " " + pattern['last']
     os.system(dCombine)
