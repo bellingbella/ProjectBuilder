@@ -1,0 +1,16 @@
+{
+    "file": [
+        {
+            "input": "%inputFilename 01",
+            "output": "%outputFilename 01",
+            "class": "example",
+            "name": "example01"
+        },
+        {
+            "input": "%inputFilename 02",
+            "output": "%outputFilename 02",
+            "class": "example",
+            "name": "example02"
+        }
+    ]
+}

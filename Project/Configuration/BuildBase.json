@@ -1,0 +1,9 @@
+{
+    "file": [
+        {
+            "input": "%inputFilename",
+            "output": "%outputFilename",
+            "class": "example"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "example": { 
+        "as": "in-out",
+        "pattern" : {
+            "first": "echo 'hi, ",
+            "mid": "and",
+            "last": "!'"
+        },
+        "input": "0",
+        "output": "1"
+    }
+}
