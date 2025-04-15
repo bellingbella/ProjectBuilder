@@ -27,3 +27,5 @@ This JSON data is Project/Configuration/Classes.json that contains all classes:
 
 - For the "pattern" field:
    + ⚠️ **Note**: Do not remove "first", "mid" or "last" in the "pattern" field; if you remove one of those, then the builder will not work.
+
+2.  💡 BuildModule <br>
