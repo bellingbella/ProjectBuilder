@@ -33,7 +33,7 @@ This JSON data is located in Project/Configuration/Classes.json that contains al
 - "class" field: It identifies the class name in the Classes.json file located in Project/Configuration.
 - "name" field: It identifies the name of the module in the allowModuleList.
 - ⚠️ **Note**
-    + all modules' properties will be contained in `"file"` array.
+    + All module properties will be contained in the `file` array.
     + do not skip `input`, `output`, `class` and `name`
 
 3. 💡 allowModuleList (`Project/Configuration/allowModuleList`) <br>
