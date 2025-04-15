@@ -6,7 +6,7 @@ The PBT is a simple project builder that helps you build the project easily.
 
 ## Usage
 1. 💡 Class/Classes <br>
-This JSON data is Project/Configuration/Classes.json that contains all calsses:
+This JSON data is Project/Configuration/Classes.json that contains all classes:
 ```json
 {
     "example": { 
