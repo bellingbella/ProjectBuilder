@@ -27,11 +27,6 @@ for i in buildModule['file']:
 
     d = classes[class_]
 
-    escapeChar_input = d['input']
-    escapeChar_output = d['output']
-    if len(escapeChar_input) != 1 or len(escapeChar_output) != 1:
-        print("error (classIOCorrect) : (Configuration > Classes): invalid escape character.")
-
     isSkipped = True
     for j in allowModuleListData:
         if name_ == j:
@@ -62,14 +57,6 @@ for i in BuildBase['file']:
         exit(-1)
 
     d = classes[class_]
-
-    escapeChar_input = d['input']
-    escapeChar_output = d['output']
-    if len(escapeChar_input) != 1 or len(escapeChar_output) != 1:
-        print("error (classIOCorrect) : (Configuration > Classes): invalid escape character.")
-
-
-
 
     left = ''
     right = ''
