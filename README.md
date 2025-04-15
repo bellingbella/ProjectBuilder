@@ -19,5 +19,5 @@ This JSON data is Project/Configuration/Classes.json that contains all calsses:
     }
 }
 ```
-- for "as", if you use "in-out" mode then it'll likes `echo 'hi', (input) and (output) !'` and if you use "out-in" mode then  it'll likes `echo 'hi',  (output) and  (input) !`
+- for "as", if you use "in-out" mode then it'll like `echo 'hi', (input) and (output) !'` and if you use "out-in" mode then  it'll like `echo 'hi',  (output) and  (input) !`
 - 
